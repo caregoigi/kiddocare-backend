@@ -1,0 +1,26 @@
+/* ViewUser.css */
+.main-content {
+    text-align: center;
+  }
+  
+  .container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 20px;
+  }
+  
+  .user-details {
+    padding: 20px;
+  }
+  
+  .user-details p {
+    margin: 10px 0;
+  }
+  
+  .user-details h4 {
+    margin-top: 20px;
+  }
+  

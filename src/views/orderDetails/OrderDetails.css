@@ -1,0 +1,10 @@
+/* OrderDetails.css */
+.order-item-row:hover {
+    background-color: #f0f0f0; /* Change to your desired color */
+    transition: background-color 0.3s ease; /* Add smooth transition */
+  }
+  .custom-hover:hover {
+    background-color: #f0f0f0; /* Change to your desired color */
+    transition: background-color 0.3s ease; /* Add smooth transition */
+  }
+  
